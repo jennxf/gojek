@@ -1,3 +1,4 @@
 *.pdf
 .DS_Store
 /data
+code/.ipynb_checkpoints*
