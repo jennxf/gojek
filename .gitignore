@@ -1,5 +1,8 @@
 *.pdf
 .DS_Store
-/data
+data/df1.csv
+data/df3.csv
+data/pings.csv
+data/test.csv
 *.ipynb_checkpoints*
 *.sublime-*
