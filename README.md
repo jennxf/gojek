@@ -9,8 +9,6 @@ The time series analysis is something that i did a step further for fun as this 
 
 ### Workings, exploratory analysis is done in the jupyter notebooks in the code folder
 
-### Executable files for testing on new test data exist in the code folder
-
 - gojek.ipynb (regression methods)
 - gojek_forecast.ipynb (time series methods)
 
