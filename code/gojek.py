@@ -67,9 +67,9 @@ if __name__ == '__main__':
     drivers = pd.read_csv("../data/drivers.csv")
     test = pd.read_csv("../data/test.csv")
     # Read in scaler
-    scaler = joblib.load('scaler.pkl')
+    scaler = joblib.load('../models/scaler.pkl')
     # read in model
-    RF = joblib.load('RF2.pkl')
+    RF = joblib.load('../models/RF2.pkl')
 
     drivers = clean_driver_table(drivers)
     test2 = create_new_test_table(test,drivers)
