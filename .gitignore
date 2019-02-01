@@ -6,3 +6,5 @@ data/pings.csv
 data/test.csv
 *.ipynb_checkpoints*
 *.sublime-*
+*.zip
+*.tgz
