@@ -11,12 +11,15 @@ The time series analysis is something that i did a step further for fun as this 
 
 ### Executable files for testing on new test data exist in the code folder
 
-### To execute the file for regression
+- gojek.ipynb (regression methods)
+- gojek_forecast.ipynb (time series methods)
+
+### To execute the file for regression, ensure that you are in the code folder
 ```python 
 python gojek.py
 ```
 
-### To execute the file for time series
+### To execute the file for time series, ensure that you are in the code folder
 ```python 
 python gojek_forecast.py
 ```
